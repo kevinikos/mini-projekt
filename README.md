@@ -1,6 +1,6 @@
-#Projekt zawody boulderowe mistrzostwa polski we wspinaczce
-
-#Intrukcja uruchamiania:
+# Symulacja zawodów wspinaczkowych
+Projekt relacyjnej bazy danych wraz z symulacją zawodów z podziałem na kategorie i poszczególne etapy event'u.
+## Intrukcja uruchamiania
 1) Ustalenie połączenia między workbenchem, a localhostem
 2) Otworzyc 'zawody_model_3' w workbenchu, w zakładce database wybrac forward engineer, tam wszystko zaakceptowac i przeniesie model do      bazy, która pojawi się na localhoście
 3) Wszystkie pliki pobrać do jednego folderu
